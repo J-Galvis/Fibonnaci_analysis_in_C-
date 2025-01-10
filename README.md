@@ -1,4 +1,4 @@
-# Fibonacci Sequence Timing
+# Fibonacci analysis in C++
 
 This repository contains a C++ program that compares the time it takes to calculate a set number of Fibonacci sequence values using different methods.
 
